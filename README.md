@@ -1,2 +1,61 @@
-# python-fundamentals
-Foundational Python exercises focused on functions, conditionals, loops, and structured logic development.
+# Python Fundamentals — Structured Learning Repository
+
+## Overview
+
+This repository documents my structured transition into software development.
+
+Focus areas:
+
+- Functions (`def`, parameters, return values)
+- Conditional logic (`if / elif / else`)
+- Boolean expressions
+- Comparison operators
+- Loops (`while`)
+- Debugging and execution flow understanding
+
+The objective is not volume, but structural clarity and logical consistency.
+
+---
+
+## Learning Philosophy
+
+- No copy/paste solutions
+- Error-driven correction
+- Repetition for structural fixation
+- Gradual increase of abstraction
+- Focus on reasoning before speed
+
+---
+
+## Current Stage
+
+Fundamentals consolidation:
+- Functions
+- Conditionals
+- Boolean logic
+- Loop introduction
+
+Mini-projects will be added after structural stability.
+
+---
+
+## Repository Structure
+
+Each exercise will be added as an individual `.py` file, clearly named by topic and progression order.
+
+Example:
+
+- `01_variables.py`
+- `02_conditionals.py`
+- `03_functions_basic.py`
+- `04_loops_intro.py`
+
+---
+
+## Goal
+
+Build a solid foundation to progress toward junior-level problem solving with:
+
+- Clean logic
+- Predictable structure
+- Independent debugging capability
