@@ -45,11 +45,12 @@ Each exercise will be added as an individual `.py` file, clearly named by topic 
 
 Example:
 
-- `01_variables.py`
-- `02_conditionals.py`
-- `03_functions_basic.py`
-- `04_loops_intro.py`
-- ´05_practice/´
+- `01_basics/`
+- `02_condicionals/`
+- `03_loops/`
+- `04_functions/`
+- `05_practice/`
+
 ---
 
 ## Goal
