@@ -1,0 +1,5 @@
+numero1 = input("escolha um numero: ")
+escolha1 = int(numero1)
+numero2 = input("escolha um número: ")
+escolha2 = int(numero2)
+soma = print(escolha1 + escolha2)

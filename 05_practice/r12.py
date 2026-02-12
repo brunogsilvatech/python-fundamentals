@@ -1,0 +1,5 @@
+nome = input("qual seu nome: ")
+ano = input("que ano nasceu: ")
+ano = int(ano)
+idade = (2026 - ano)
+print("Você", nome, "tem", idade, "anos de idade")
