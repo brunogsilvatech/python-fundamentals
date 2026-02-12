@@ -49,7 +49,7 @@ Example:
 - `02_conditionals.py`
 - `03_functions_basic.py`
 - `04_loops_intro.py`
-- '05_practice/'
+- ´05_practice/´
 ---
 
 ## Goal
