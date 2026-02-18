@@ -1,5 +1,5 @@
-count = 1
+count = 10
+x = int(input("which number?: "))
 while count <= x:
-    x = int(input("which number?: "))
     print(count)
-    count = count + x
+    count = count + 1

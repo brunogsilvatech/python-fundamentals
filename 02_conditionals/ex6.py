@@ -1,4 +1,4 @@
-frase = input("frase favorita")
+frase = input("frase favorita? ")
 contador = 0
 for letra in frase:
     if letra != " ":
